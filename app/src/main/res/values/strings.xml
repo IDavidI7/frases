@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="nova_frase">nova frase</string>
+    <string name="salvar">salvar</string>
+    <string name="qual_seu_nome">Qual é seu nome?</string>
+    <string name="vamos_comecar">Vamos começar?</string>
+    <string name="todo">TODO</string>
+    <string name="frase">Frase</string>
+</resources>
